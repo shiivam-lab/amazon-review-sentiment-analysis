@@ -87,5 +87,14 @@ The model performed better on positive reviews than on negative and neutral revi
 ## 📸 Application Screenshots
 
 ### 1. Dashboard Overview
-<img width="1917" height="1018" alt="Screenshot 2026-10-27 025612" src="https://github.com/user-attachments/assets/7a196318-a7af-49cc-886a-5c6f3371e819" />
+<img width="1917" height="1010" alt="Screenshot 2026-10-27 025423" src="https://github.com/user-attachments/assets/d58566ac-53a4-45be-9752-a7b92016b07d" />
+<img width="1911" height="873" alt="Screenshot 2026-10-27 025507" src="https://github.com/user-attachments/assets/78009412-254a-4229-88e6-0844968623c7" />
+<img width="1917" height="1015" alt="Screenshot 2026-10-27 025524" src="https://github.com/user-attachments/assets/8fca024c-dafd-4c31-bad0-137728aefd05" />
+<img width="1916" height="1016" alt="Screenshot 2026-10-27 025537" src="https://github.com/user-attachments/assets/d811c983-b3f7-48b3-86a3-07668bd02138" />
+<img width="1917" height="1018" alt="Screenshot 2026-10-27 025612" src="https://github.com/user-attachments/assets/5e96034d-9772-4d88-a3fd-ae7242e024c2" />
+
+
+
+
+
 

@@ -82,4 +82,10 @@ A TF-IDF vectorizer and Logistic Regression classifier were evaluated on a held-
 - **Testing reviews:** 300
 - **Evaluation method:** Confusion matrix and classification report
 
-The model performed better on positive reviews than on negative and neutral reviews. Improving minority-class classification is a potential area for future work.
+The model performed better on positive reviews than on negative and neutral reviews. Improving minority-class classification is a potential area for future work. 
+
+## 📸 Application Screenshots
+
+### 1. Dashboard Overview
+<img width="1917" height="1018" alt="Screenshot 2026-10-27 025612" src="https://github.com/user-attachments/assets/7a196318-a7af-49cc-886a-5c6f3371e819" />
+

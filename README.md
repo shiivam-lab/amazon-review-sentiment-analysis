@@ -72,3 +72,14 @@ The app reads `reviews.csv` from the project folder by default. You can also upl
 - Compare VADER labels with human-reviewed ground truth
 - Use cross-validation and per-class metrics to assess the ML model
 - Improve complaint detection with a more robust text-analysis approach
+
+## Model Performance
+
+A TF-IDF vectorizer and Logistic Regression classifier were evaluated on a held-out test set.
+
+- **Test accuracy:** 74.33%
+- **Training reviews:** 1,199
+- **Testing reviews:** 300
+- **Evaluation method:** Confusion matrix and classification report
+
+The model performed better on positive reviews than on negative and neutral reviews. Improving minority-class classification is a potential area for future work.

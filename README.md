@@ -1,4 +1,11 @@
 # Amazon Customer Review Sentiment Analysis & Business Dashboard
+## 🚀 Live Demo
+
+**Try the live application:** [Amazon Customer Review Sentiment Analysis](https://amazon-review-sentiment-analysis-8wkic9cm7ukutmlbmyrshh.streamlit.app/)
+
+Explore customer sentiment, product-level patterns, interactive visualizations, business insights, and machine learning predictions.
+
+> **Model Performance:** 74.33% test accuracy.
 
 ## Overview
 An interactive Streamlit application that explores customer review sentiment, compares products, surfaces common words in positive and negative feedback, and demonstrates a text-classification workflow using TF-IDF and Logistic Regression.
